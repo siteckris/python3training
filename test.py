@@ -1,0 +1,3 @@
+velkomst = "hello"
+
+print (velkomst)
